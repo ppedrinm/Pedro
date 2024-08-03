@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+@font-face{
+    font-family: 'fankybubblegraffiti';
+    src: url('font/fanky_bubble_graffiti/FankyBubbleGraffiti-Regular.otf') format('opentype');
+}
+
+body{
+    background-color: #d4a276;
+}
+
+.conteudo-titulo{
+
+    text-align: center;
+    background-color: #8b5e34;
+    border-radius: 10px;
+    font-size: 70px;
+    font-family: 'fankybubblegraffiti';
+    font-weight: normal;
+    color: #d4a276;
+    text-shadow: 10px 10px black;
+
+}
+
